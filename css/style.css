@@ -19,6 +19,11 @@ body {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgb(0, 0, 0)), url("../img/unsplash-image-zcx5ztIjQAM.jpg");
    
 }
+.header1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .img-principal{
     width: 90%;
     height: auto;

@@ -113,3 +113,18 @@ hr {
     border-color: white;
     border-bottom-width: 1.5px;
 }
+.footer{
+    display: flex;
+    padding: 0 0.4rem;
+    justify-content: center;
+    flex-direction: column;
+}
+.pie-pagina{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+.pie-pagina1 {
+    color: white;
+    margin: 1rem;
+}
